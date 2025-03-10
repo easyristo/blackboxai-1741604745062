@@ -1,0 +1,11 @@
+2025-03-10 10:59:41,320 - INFO - Starting electricity price scraper
+2025-03-10 10:59:41,337 - INFO - Database initialized successfully
+2025-03-10 10:59:41,340 - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2025-03-10 10:59:41,340 - ERROR - Error in main function: 'Job' object has no attribute 'next_run_time'
+2025-03-10 11:00:21,654 - INFO - Starting electricity price scraper
+2025-03-10 11:00:21,655 - INFO - Database initialized successfully
+2025-03-10 11:00:21,656 - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2025-03-10 11:00:21,656 - INFO - Next scheduled run at: 2025-03-10 15:39:00
+2025-03-10 11:00:21,656 - INFO - Starting scheduler...
+2025-03-10 11:00:21,658 - INFO - Added job "Scrape electricity prices" to job store "default"
+2025-03-10 11:00:21,658 - INFO - Scheduler started
